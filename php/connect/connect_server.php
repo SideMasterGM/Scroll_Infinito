@@ -1,5 +1,6 @@
 <?php
-	
+	#Author: Jerson Martínez (SideMaster).
+	#Canal de YouTube: https://www.youtube.com/user/sidemastersupremo
 	$host = "127.0.0.1";
 	$user = "SideMaster";
 	$pass = "Programador";

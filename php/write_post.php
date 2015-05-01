@@ -1,3 +1,7 @@
+<!-- 
+	#Author: Jerson Martínez (SideMaster).
+	#Canal de YouTube: https://www.youtube.com/user/sidemastersupremo
+-->
 <!DOCTYPE html>
 <html lang="en">
 	<head>

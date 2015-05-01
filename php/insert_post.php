@@ -1,5 +1,6 @@
 <?php
-
+	#Author: Jerson Martínez (SideMaster).
+	#Canal de YouTube: https://www.youtube.com/user/sidemastersupremo
 	if (isset($_POST['send'])){
 		include ("connect/connect_server.php");
 

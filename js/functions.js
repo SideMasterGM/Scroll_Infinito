@@ -1,3 +1,8 @@
+/*
+#Author: Jerson Martínez (SideMaster).
+#Canal de YouTube: https://www.youtube.com/user/sidemastersupremo
+*/
+
 $(document).ready(function() {
     jQuery.ias({
         container : '.container', 

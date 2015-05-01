@@ -1,4 +1,8 @@
 <?php
+
+	#Author: Jerson Martínez (SideMaster).
+	#Canal de YouTube: https://www.youtube.com/user/sidemastersupremo
+
 	include ("php/connect/connect_server.php");
 
 	$page = (int) (!isset($_GET['p'])) ? 1 : $_GET['p'];
