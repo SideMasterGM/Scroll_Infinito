@@ -1,0 +1,107 @@
+/*
+*--------------------------------------------
+*  Creado por Side Master, 24/04/2015
+*  Dirección: youtube.com/sidemastersupremo
+*--------------------------------------------
+*/
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body .wrap {
+	width: 95%;
+	margin: 20px auto;
+	border: 1px solid #000;
+	padding: 10px;
+	box-shadow: 0 0 3px 0 #000;
+	-webkit-box-shadow: 0 0 3px 0 #000;
+	-moz-box-shadow: 0 0 3px 0 #000;
+	-ms-box-shadow: 0 0 3px 0 #000;
+	-o-box-shadow: 0 0 3px 0 #000;
+}
+
+body .wrap a {
+	float: right;
+	text-decoration: none;
+}
+
+body .wrap .container {
+	padding: 10px;
+	box-shadow: 0 0 2px 0 #000;
+	-webkit-box-shadow: 0 0 2px 0 #000;
+	-moz-box-shadow: 0 0 2px 0 #000;
+	-ms-box-shadow: 0 0 2px 0 #000;
+	-o-box-shadow: 0 0 2px 0 #000;
+	width: 80%;
+	margin: 25px auto;
+}
+
+body .wrap .container .post {
+	box-shadow: 0 0 1px 0 #000;
+	-webkit-box-shadow: 0 0 1px 0 #000;
+	-moz-box-shadow: 0 0 1px 0 #000;
+	-ms-box-shadow: 0 0 1px 0 #000;
+	-o-box-shadow: 0 0 1px 0 #000;
+	padding: 10px;
+	margin: 10px;
+	transition: .2s linear;
+	-webkit-transition: .2s linear;
+	-moz-transition: .2s linear;
+	-ms-transition: .2s linear;
+	-o-transition: .2s linear;
+}
+
+body .wrap .container .post:hover {
+	transition: .2s linear;
+	-webkit-transition: .2s linear;
+	-moz-transition: .2s linear;
+	-ms-transition: .2s linear;
+	-o-transition: .2s linear;
+	box-shadow: 0 0 4px 0 #000;
+	-webkit-box-shadow: 0 0 4px 0 #000;
+	-moz-box-shadow: 0 0 4px 0 #000;
+	-ms-box-shadow: 0 0 4px 0 #000;
+	-o-box-shadow: 0 0 4px 0 #000;
+}
+
+body .wrap .container .post .id p {
+	font-size: 30px;
+	color: steelblue;
+	font-family: cursive;
+	margin-right: 10px;
+}
+
+body .wrap .container .post .id, .title {
+	display: inline-block;
+}
+
+/*Loader style*/
+.ias_loader {
+	text-align:center;
+	margin: 30px 0 40px;
+}
+
+.ias_trigger {
+	margin-right: 37%;
+	margin-bottom: 30px;
+}
+
+.ias_trigger a:link, .ias_trigger a:visited {
+    padding: 4px 50px;
+    background-color: #f9f9f9;
+    border: solid 1px #ddd;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    font: bold 12px Arial, sans-serif;
+    color: #555;
+    text-decoration: none;
+}
+
+.ias_trigger a:hover, .ias_trigger a:active {
+    border-color: #ccc;
+}
